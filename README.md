@@ -1,2 +1,2 @@
 # CustomProject
-java后台demo
+spring+springmvc+mybatis+maven
